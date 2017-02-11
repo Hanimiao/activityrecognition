@@ -19,3 +19,5 @@
 ####[课题组研究项目简介](https://github.com/jindongwang/activityrecognition/blob/master/notes/%E8%AF%BE%E9%A2%98%E7%BB%84%E7%A0%94%E7%A9%B6%E9%A1%B9%E7%9B%AE%E4%B8%8E%E4%BA%BA%E7%89%A9%E6%8E%A8%E8%8D%90.md)
 
 ####[公开数据集整理](https://github.com/jindongwang/activityrecognition/blob/master/dataset/dataset%20description.md)
+
+####[行为识别特征提取代码](https://github.com/jindongwang/activityrecognition/tree/master/code/featureextraction)
