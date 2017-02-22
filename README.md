@@ -1,5 +1,7 @@
 ##行为识别的一些资料
 
+####[什么是行为感知（行为识别）？](https://github.com/jindongwang/activityrecognition/blob/master/%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB%E7%AE%80%E4%BB%8B.md)
+
 ####[行为识别常用的特征提取方法](https://www.zhihu.com/question/41068341)
 
 ####[近几年国际会议关于行为识别文章与简介](https://github.com/jindongwang/activityrecognition/blob/master/notes/%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB%E8%AE%BA%E6%96%87list.md)
