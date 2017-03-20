@@ -2,7 +2,8 @@
 win_size = 100;    %set window size
 step = 0.5;        %set overlap (0.1~1)
 %perform feature extraction
-dataFE = FeatureExtraction2(data_combined,win_size,step);
+%data is the raw data readings, e.g. a vector of a window
+dataFE = FeatureExtraction2(data,win_size,step);
 %dataFE is the extracted feature matrix, but it is without label
 
 %get your label somewhere
