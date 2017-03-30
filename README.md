@@ -1,4 +1,4 @@
-##行为识别的一些资料
+行为识别的一些资料
 
 [什么是行为感知（行为识别）？](https://github.com/jindongwang/activityrecognition/blob/master/%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB%E7%AE%80%E4%BB%8B.md)
 
