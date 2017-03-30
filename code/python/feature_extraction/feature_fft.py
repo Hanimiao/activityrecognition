@@ -109,7 +109,7 @@ class Feature_fft(object):
         feature_all.append(self.fft_shape_std() ** 2)
         feature_all.append(self.fft_shape_std())
         feature_all.append(self.fft_shape_skew())
-        feature_all.append(self.fft_shape_skew())
+        feature_all.append(self.fft_shape_kurt())
         feature_all.append(self.fft_mean())
         feature_all.append(self.fft_var())
         feature_all.append(self.fft_std())

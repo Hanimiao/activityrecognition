@@ -19,7 +19,7 @@ class Feature_time(object):
         return np.mean(self.data)
 
     def time_var(self):
-        return np.mean(self.data)
+        return np.var(self.data)
 
     def time_std(self):
         return np.std(self.data)
