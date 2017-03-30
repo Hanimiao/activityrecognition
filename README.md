@@ -22,4 +22,4 @@
 
 ####[公开数据集整理](https://github.com/jindongwang/activityrecognition/blob/master/dataset/dataset%20description.md)
 
-####[行为识别特征提取代码](https://github.com/jindongwang/activityrecognition/tree/master/code/featureextraction)
+####[行为识别特征提取代码](https://github.com/jindongwang/activityrecognition/tree/master/code)
