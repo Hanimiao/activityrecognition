@@ -12,16 +12,14 @@
 
 - - -
 
-Python版本比较通用，也比较好扩展。目录下的`feature_extraction`文件夹是核心的文件夹。`test.py`是测试文件，调用方法和测试直接参考即可。
-
-#### Python版本：
+Python版本比较通用，也比较好扩展。目前刚放到pypi下，可能 用pip直接安装。该目录下的`feature_extraction`文件夹是核心的文件夹。`test.py`是测试文件，调用方法和测试直接参考即可。
 
 内核提取方法针对Python2和Python3一样通用。`test.py`文件是按照Python3格式写的，无伤大雅。
 
 #### 需求：
 pip install numpy
 
-#### 调用方式：
+#### 调用方式（直接拷贝）：
 1. 拷贝`feature_extraction`文件夹到你的目录（通常是你的特征提取代码目录）下；
 2. 在同一层目标下，首先导入引用：
 
@@ -33,6 +31,10 @@ pip install numpy
 
 #### 返回：
 一个2D的numpy.array
+
+#### 调用方式（pip）：
+`pip install tsfeature`
+`import tsfeature.feature_core`
 
 
 #### 扩展：
