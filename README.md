@@ -1,4 +1,11 @@
-行为识别的一些资料
+### 行为识别的一些资料
+
+关于机器学习和迁移学习的资料，请见我的下面两个仓库：
+
+- [机器学习](https://github.com/jindongwang/MachineLearning)
+- [迁移学习](https://github.com/jindongwang/transferlearning)
+
+- - -
 
 [什么是行为感知（行为识别）？](https://github.com/jindongwang/activityrecognition/blob/master/%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB%E7%AE%80%E4%BB%8B.md)
 
@@ -23,3 +30,5 @@
 [公开数据集整理](https://github.com/jindongwang/activityrecognition/blob/master/dataset/dataset%20description.md)
 
 [行为识别特征提取代码](https://github.com/jindongwang/activityrecognition/tree/master/code)
+
+> ***[文章版权声明]这篇文档是我开源到github上的，可以遵守相关的开源协议进行使用，如果使用时能加上我的名字就更好了。这个仓库中包含有很多研究者的论文、硕博士论文等，都来源于在网上的下载，我对一些文章都作了注解，有可能会很好地帮助理解。对于这些文章的版权属于相应的出版社。如果作者或出版社有异议，请联系我进行删除（本来应该只放文章链接的，但是由于时间关系来不及）。一切都是为了更好地学术！***
