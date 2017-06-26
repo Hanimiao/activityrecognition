@@ -1,5 +1,27 @@
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+| ﻿Index | Dataset | Type | #Subjects | Sampling Rate | Activity | Sample | Sensors | Reference |
+|:-----:|:------------------------:|:----------------:|:---------:|:-------------:|:--------:|:--------:|:--------------:|:---------:|
+| 1 | OPPORTUNITY | ADL | 4 | 32 Hz | 16 | 701366 | A, G, M, O, AM |  |
+| 2 | Skoda Mini Checkpoint | Factory | 1 | 96 Hz | 10 | 22000 | A |  |
+| 3 | UCI Smartphone | ADL | 30 | 50 Hz | 6 | 10299 | A, G |  |
+| 4 | PAMAP2 | ADL | 9 | 100 Hz | 18 | 2844868 | A, G, M |  |
+| 5 | USC-had | ADL | 14 | 100 Hz | 12 | 2520000 | A, G |  |
+| 6 | WISDM | ADL | 29 | 20 Hz | 6 | 1098207 | A |  |
+| 7 | DSADS | ADL | 8 | 25 Hz | 19 | 1140000 | A, G, M |  |
+| 8 | ambient kitchen | Food preparation | 20 | 40 Hz | 2 | 55000 | O |  |
+| 9 | Darmstadt Daily Routines | ADL | 1 | 100 Hz | 35 | 24000 | A |  |
+| 10 | Actitracker | ADL | 36 | 20 Hz | 6 | 2980765 | A |  |
+| 11 | SHO | ADL | 10 | 50 Hz | 7 | 630000 | A, G, M |  |
+| 12 | BIDMC | Heart failure | 15 | 125 Hz | 2 | > 20000 | IP, ECG, PPG |  |
+| 13 | mhealth | ADL | 10 | 50 | 12 | 16740 | A, C, G |  |
+| 14 | Daphnet Gait dataset | Gait | 10 | 64 | 2 | 1917887 | A |  |
+| 15 | ActiveMiles | ADL | 10 | 50-200Hz | 7 | 4390726 | A |  |
+| 16 | HASC | ADL | 1 | 200 Hz | 13 | NA | A |  |
+| 17 | PAF | PAF | 48 | 128 Hz | 2 | 230400 | EEG |  |
+| 18 | ActRectut | Gesture | 2 | 32 Hz | 12 | 102613 | A, G |  |
+| 19 | Heterogeneouss | ADL | 9 | 100-200 Hz | 6 | 43930257 | A, G |  |
+
 - [行为识别公开数据集整理](#行为识别公开数据集整理)
     - [1.Opportunity](#1opportunity)
         - [1.1网址与下载](#11网址与下载)
